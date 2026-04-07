@@ -5,7 +5,7 @@
 #### Team member
 
 1. Ruoyu Wu  (RUW115@pitt.edu)
-2.
+2. Ruizhi Huang (RUH90@pitt.edu)
 3.
 
 ## Datasets：
@@ -17,5 +17,8 @@
 * total-population.csv: population data of each neighboorhood ([https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3))
 
 #### Ruizhi：
+
+
+* Community Center Daily Attendance.csv: contains daily attendance data for City of Pittsburgh community facilities, including community centers, parks, and recreational spaces (https://data.wprdc.org/dataset/daily-community-center-attendance/resource/b7cb30c8-b179-43ff-8655-f24880b0f578)
 
 #### Zibo：
