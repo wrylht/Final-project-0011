@@ -6,7 +6,7 @@
 
 1. Ruoyu Wu  (RUW115@pitt.edu)
 2. Ruizhi Huang (RUH90@pitt.edu)
-3.
+3. Zibo Ding (ZID32@pitt.edu)
 
 ## Datasets：
 
@@ -22,3 +22,4 @@
 * Community Center Daily Attendance.csv: contains daily attendance data for City of Pittsburgh community facilities, including community centers, parks, and recreational spaces (https://data.wprdc.org/dataset/daily-community-center-attendance/resource/b7cb30c8-b179-43ff-8655-f24880b0f578)
 
 #### Zibo：
+* aggregated-transactions-2019-09-03.csv: contains Pittsburgh Parking Authority parking transaction data aggregated by parking zone and time of day. The dataset includes meter transactions, mobile transactions, and payment information. (https://data.wprdc.org/dataset/parking-transactions/resource/1ad5394f-d158-46c1-9af7-90a9ef4e0ce1)
