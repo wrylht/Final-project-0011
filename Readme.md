@@ -1,7 +1,7 @@
 # Final Project --- Best neighborhood in pitt
 
 ## Group 2
-
+#### Team name: This Is a Team
 #### Team member
 
 1. Ruoyu Wu  (RUW115@pitt.edu)
@@ -23,3 +23,7 @@
 
 #### Zibo：
 * aggregated-transactions-2019-09-03.csv: contains Pittsburgh Parking Authority parking transaction data aggregated by parking zone and time of day. The dataset includes meter transactions, mobile transactions, and payment information. (https://data.wprdc.org/dataset/parking-transactions/resource/1ad5394f-d158-46c1-9af7-90a9ef4e0ce1)
+
+
+#### An Overview of Our Repository
+Our repository contains each team member's individual analysis notebook and the `combined_analysis` notebook, which combines three metrics to determine the best neighborhood in Pittsburgh. Also, we include our visualization images in our repository.
